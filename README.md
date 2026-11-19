@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I'm Manaswi 👋
+
+First-year AI & Machine Learning student building creative web games and learning software development.
+
+- 🔭 **Currently working on:** [Midnight Botanical](https://github.com/ManaswiTech/midnight-botanical-game) — an interactive night-themed botanical puzzle game
+- 🌱 **Currently learning:** Python, TypeScript, and core AIML concepts
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/manaswi-potluri-319036445/)
+  
 
 <!--
 **ManaswiTech/ManaswiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
